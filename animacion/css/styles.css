@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.st0{fill:#F9B233;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#F18C04;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#B67A00;}
+	
+	.cerveza1 {
+		transform-origin:center center;
+		-webkit-transform-origin:center center;
+		-o-transform-origin:center center;
+		-moz-transform-origin:center center;
+		animation-delay: 1s;
+		
+		
+		
+		}
